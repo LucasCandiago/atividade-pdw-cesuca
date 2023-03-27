@@ -54,3 +54,9 @@ body {
     margin-right: 0;
     margin-left: 83%;
 }
+
+@media (max-width: 900px) {
+    .bubbles {
+        display: none;
+    }
+}
